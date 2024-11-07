@@ -1,4 +1,4 @@
-//Defining all my routees here
+//Defining all my routes here
 
 package routes
 
